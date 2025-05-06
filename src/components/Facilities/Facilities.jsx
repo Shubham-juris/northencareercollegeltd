@@ -2,7 +2,7 @@ import "./Facilities.css";
 
 const Facilities = () => {
   return (
-    <section className="facilities">
+    <section id='Facilities' className="facilities">
       <h1>Our Facilities</h1>
       <p>Immerse yourself in a world of exceptional amenities and services.</p>
       <div className="row">

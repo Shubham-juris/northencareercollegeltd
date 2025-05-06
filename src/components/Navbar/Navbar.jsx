@@ -26,7 +26,7 @@ const Navbar = () => {
   return (
     <nav>
       <Link to="/">
-        <img src={logo} alt="" />
+        <h1 className="logo">Northern <span className="logo2"> career college</span></h1>
       </Link>
 
       <div className="nav-links" id="navLinks" ref={navLinkRef}>

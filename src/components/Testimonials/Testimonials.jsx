@@ -5,7 +5,7 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 const Testimonials = () => {
   return (
-    <section className="testimonials">
+    <section id='Testimonials' className="testimonials">
       <h1>What Our Student Says</h1>
       <p>
         Discover what our students have to say about their transformative

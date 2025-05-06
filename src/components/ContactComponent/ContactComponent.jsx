@@ -12,25 +12,24 @@ const ContactComponent = () => {
             <div>
               <FontAwesomeIcon icon={faHome} className="icon" />
               <span>
-                <h5>GT Road, Gulzar Group Of Institutes</h5>
-                <p>Ludhiana, Punjab, IN</p>
+                <h5>215-213 main street , slave lake ,AB , T0G 2A2</h5>
+               
               </span>
             </div>
 
             <div>
               <FontAwesomeIcon icon={faPhone} className="icon" />
               <span>
-                <h5>+91 6262172262</h5>
-                <p>Monday to Saturday, 10AM to 6PM</p>
+                <h5>(403)921-4529</h5>
+                
               </span>
             </div>
 
             <div>
               <FontAwesomeIcon icon={faEnvelope} className="icon" />
               <span>
-                <h5>info@eduford.com</h5>
-                <p>Email us Your query</p>
-              </span>
+                <h5>www.northencareercollege.ca</h5>
+                           </span>
             </div>
           </div>
 
