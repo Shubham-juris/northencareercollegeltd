@@ -9,6 +9,7 @@ const Contact = () => {
       <Subheader header="Contact Us" />
     
       <ContactComponent />
+      
       <Footer />
     </>
   );

@@ -12,6 +12,7 @@ const ContactComponent = () => {
             <div>
               <FontAwesomeIcon icon={faHome} className="icon" />
               <span>
+                
                 <h5>215-213 main street , slave lake ,AB , T0G 2A2</h5>
                
               </span>
@@ -28,6 +29,7 @@ const ContactComponent = () => {
             <div>
               <FontAwesomeIcon icon={faEnvelope} className="icon" />
               <span>
+
                 <h5>www.northencareercollege.ca</h5>
                            </span>
             </div>

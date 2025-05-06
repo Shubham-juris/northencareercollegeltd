@@ -6,6 +6,7 @@ const Facilities = () => {
       <h1>Our Facilities</h1>
       <p>Immerse yourself in a world of exceptional amenities and services.</p>
       <div className="row">
+        
         <div className="facilities-col">
           <img src="/images/library.png" alt="" />
           <h3>World Class Library</h3>
