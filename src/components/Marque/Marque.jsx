@@ -2,23 +2,23 @@ import React from 'react';
 import './Marque.css'; 
 
 function Marquee() {
+  const text = (
+    <>
+      <span className="marquee-text">Unit</span>
+      <span className="marquee-text">of</span>
+      <span className="marquee-text">YK</span>
+      <span className="marquee-text">Career</span>
+      <span className="marquee-text">College</span>
+    </>
+  );
+
   return (
     <div className="marquee-wrapper">
       <div className="marquee-inner">
-        <div className="marquee-content marquee-left">
-          <span className="marquee-text">Associated</span>
-          <span className="marquee-text">By</span>
-          <span className="marquee-text">YK</span>
-          <span className="marquee-text">Career</span>
-          <span className="marquee-text">College</span>
-        </div>
-        <div className="marquee-content marquee-right">
-        <span className="marquee-text"> Associated</span>
-          <span className="marquee-text">By</span>
-          <span className="marquee-text">YK</span>
-          <span className="marquee-text">Career</span>
-          <span className="marquee-text">College</span>
-        </div>
+        {text}
+        {text}
+        {text}
+        {text} 
       </div>
     </div>
   );

@@ -22,7 +22,7 @@ const Footer = () => {
       </div>
 
       <p>
-      Associated  by Yk Career College
+   Unit of Yk Career College
       </p>
       <footer className="footer">
   <div className="footer-container">
