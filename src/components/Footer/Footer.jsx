@@ -27,7 +27,7 @@ const Footer = () => {
       <footer className="footer">
   <div className="footer-container">
     <div className="footer-section about">
-      <h2>Northen Career College</h2>
+      <h2>Northern Career College</h2>
       <p>
         We're dedicated to providing high-quality education to everyone.
         Our online platform makes learning accessible, flexible, and enjoyable.
