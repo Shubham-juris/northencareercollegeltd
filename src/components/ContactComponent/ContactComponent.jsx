@@ -11,7 +11,9 @@ const ContactComponent = () => {
           <div>
             <FontAwesomeIcon icon={faHome} className="icon" />
             <span>
-              <h5>215-213 Main Street, Slave Lake, AB, T0G 2A2</h5>
+              <h5>215-213 Main Street, Slave Lake, AB, T0G 2A2
+              <br/><br/>311 32 WESTWINDS CRES NE,#110 ,CALGARY,Alberta,T3J5L3</h5>
+              
             </span>
           </div>
 
