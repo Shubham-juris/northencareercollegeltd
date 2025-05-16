@@ -55,14 +55,15 @@ const Footer = () => {
 
     <div className="footer-section contact-info">
       <h3>Contact Info</h3>
-      <p><i className="fas fa-map-marker-alt"></i> 215-213 Main Street, Slave Lake AB, T0G 2A2</p>
+      <p><i className="fas fa-map-marker-alt"></i> 215-213 Main Street, Slave Lake AB, T0G 2A2<br/>
+      <br/>311 32 WESTWINDS CRES NE,110,CALGARY,Alberta,T3J5L3</p>
       <p><i className="fas fa-phone-alt"></i> (403)921-4529</p>
       <p><i className="fas fa-envelope"></i> YK careercollege@gmail.com</p>
     </div>
   </div>
 
   <div className="footer-bottom">
-    <p>© 2025 Northen Career College. All Rights Reserved.</p>
+   
   </div>
 </footer>
 
