@@ -16,8 +16,8 @@ const Footer = () => {
       
       <div className="icons">
         <FontAwesomeIcon icon={faFacebookF} className="fab" />
-        <FontAwesomeIcon icon={faTwitter} className="fab" />
         <FontAwesomeIcon icon={faInstagram} className="fab" />
+        <FontAwesomeIcon icon={faTwitter} className="fab" />
         {/* <FontAwesomeIcon icon={faLinkedinIn} className="fab" /> */}
       </div>
 
