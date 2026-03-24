@@ -18,7 +18,7 @@ const Footer = () => {
         <FontAwesomeIcon icon={faFacebookF} className="fab" />
         <FontAwesomeIcon icon={faTwitter} className="fab" />
         <FontAwesomeIcon icon={faInstagram} className="fab" />
-        <FontAwesomeIcon icon={faLinkedinIn} className="fab" />
+        {/* <FontAwesomeIcon icon={faLinkedinIn} className="fab" /> */}
       </div>
 
       <p>
@@ -33,9 +33,9 @@ const Footer = () => {
         Our online platform makes learning accessible, flexible, and enjoyable.
       </p>
       <div className="social-icons">
-        <a href="#"><i className="fab fa-facebook-f"></i></a>
-        <a href="#"><i className="fab fa-twitter"></i></a>
-        <a href="#"><i className="fab fa-instagram"></i></a>
+        <a href="https://www.facebook.com/thenweducationcollege"><i className="fab fa-facebook-f"></i></a>
+        <a href="https://www.instagram.com/thenwcareercollege/"><i className="fab fa-instagram"></i></a>
+        <a href="https://x.com/thenw_college"><i className="fab fa-twitter"></i></a>
       </div>
     </div>
 
